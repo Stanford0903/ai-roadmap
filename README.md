@@ -3,7 +3,7 @@
 > Build useful AI products, develop reliable quantitative trading research, and document progress openly.
 
 **Start:** 2026-10-21 · **12-month checkpoint:** 2027-10-21  
-**Primary tracks:** AI Automation Business (60%) · AI Quant Research (30%) · Review (10%)
+**Primary tracks (updated 2026-10-23):** AI Automation + Business (50%) · Python / Software Engineering (30%) · AI Trading Research (20%)
 
 ## Mission
 1. Build and ship AI automation software that solves real business problems.
@@ -11,7 +11,10 @@
 3. Build a **research-only** crypto spot trading system using reproducible backtests and dry-run monitoring; **no live orders or leverage until independently evaluated**.
 4. Demonstrate progress through completed projects, tests, GitHub commits, and customer feedback—not promises of profit.
 
-## 12-month milestones
+## Updated 12-month roadmap
+See [12-month dual-track learning plan](plans/2026-2027-dual-track.md). This is an additive refinement: all completed daily issues remain closed; the original October 21–31 sprint remains in place. The first month includes a Python trading backtesting MVP without disrupting TuitionMate Day 5. MuleRun Plus is used for research/agent experiments early and a *trial* of news report automation on Days 19–22; no real trading.
+
+## Original 12-month milestone snapshot (historical)
 | Period | AI Automation Business | AI Trading Research | Evidence |
 |---|---|---|---|
 | Oct–Dec 2026 | FAQ/booking assistant MVP, demo, initial customer interviews | Freqtrade setup, baseline backtests and risk rules | Demo + backtest report |
