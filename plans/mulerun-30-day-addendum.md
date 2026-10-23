@@ -3,9 +3,9 @@
 > **Additive update only.** Preserve existing October AI Automation Business sprint, Days 1–4 accomplishments, Day 5 progress, and historical Python trading research. This document does not reset or replace the original roadmap.
 
 ## Overall allocation
-- 60% AI Automation Business: TuitionMate FAQ/FastAPI/n8n MVP and client discovery.
-- 30% AI Trading Research: preserve previous BTC/USDT Python work; backtest/Freqtrade research only.
-- 10% review, documentation and verification.
+- 50% AI Automation + Business: TuitionMate FAQ/FastAPI/n8n MVP and client discovery.
+- 30% Python / Software Engineering: coding, testing, API architecture and persistence.
+- 20% AI Trading Research: preserve previous BTC/USDT Python work; backtest/Freqtrade research only.
 
 ## Status at adoption
 - Day 1–4 learning issues completed; Day 5 ongoing.
@@ -38,3 +38,5 @@
 ## Tracking
 - GitHub Day 5 issue remains open until 10 scenarios and demo evidence are verified.
 - Keep MuleRun add-on separate from already completed tasks; no retroactive checkbox changes.
+
+**Allocation revision (2026-10-23):** User selected 50/30/20 for the coming 12 months. See [current annual plan](2026-2027-dual-track.md); earlier completed Day 1–4 work remains unchanged.
